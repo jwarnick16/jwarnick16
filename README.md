@@ -61,8 +61,6 @@ I am a Programming and Web Development major from Illinois.
 
 ### :fire: My Stats (I'm a newbie):
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jwarnick16&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwarnick16)](https://github.com/anuraghazra/github-readme-stats)
 
 
